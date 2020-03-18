@@ -1,0 +1,10 @@
+<resources>
+   <string name="app_name">MyPlannner1022</string>
+   <string name="monthly_calendar">Monthly Calendar</string>
+   <string name="weekly_calendar">Weekly To-Do</string>
+   <string name="new_item">Add New Item</string>
+   <string name="year">2019</string>
+   <string name="date">Oct 22</string>
+   <string name="dayOfWeek">Tuesday</string>
+   <string name="goToToday">Jump to today</string>
+</resources>
